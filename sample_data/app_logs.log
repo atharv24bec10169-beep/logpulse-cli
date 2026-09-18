@@ -1,0 +1,5 @@
+[2026-09-18 10:00:00] [INFO] [auth-service] User login successful for user_101
+[2026-09-18 10:00:05] [INFO] [payment-service] Payment processed for order_402
+[2026-09-18 10:00:10] [WARN] [order-service] Inventory database response delay 350ms
+[2026-09-18 10:00:15] [ERROR] [auth-service] Connection timeout to LDAP authentication server
+[2026-09-18 10:00:20] [CRITICAL] [order-service] Out of Memory: worker process terminated abruptly
